@@ -25,3 +25,19 @@ section{
     color:white;
     font-weight:700px;
 }
+.ditio{
+    width:50%
+}
+.ditio img{
+    width:80%;
+}
+#blue{
+    color:lightcoral;
+}
+#ankor{
+    text-decoration:none;
+    background-image:linear-gradient(lightcoral,orange);
+    color:white;
+    border-radius:15px;
+    padding:10px 10px;
+}
